@@ -7,11 +7,9 @@
 	</details>
 	
 	<plugins>
-
-
 		<plugin name="AACplus" version="1.1" target="mac|unix" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">AACplus</title>
-			<desc  lang="EN">A Plugin Settings to enable playing AACplus streamtypes using mplayer</desc>
+			<desc  lang="EN">A Plugin Settings to enable playing AACplus streamtypes using mplayer. Requires mplayer to be installed.</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<url>http://bpaplugins.googlecode.com/files/AACplusLinux-v101.ZIP</url>
@@ -21,7 +19,7 @@
 		
 		<plugin name="AACplus" version="1.1"  target="win" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">AACplus</title>
-			<desc  lang="EN">A Plugin Settings to enable playing AACplus streamtypes using mplayer</desc>
+			<desc  lang="EN">A Plugin Settings to enable playing AACplus streamtypes using mplayer.  Requires mplayer to be installed.</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://wiki.slimdevices.com/index.php/AACplus</link>
@@ -32,7 +30,7 @@
 		
 		<plugin name="FindArt" version="1.0" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">FindArt</title>
-			<desc  lang="EN">FindArt plugins provides easy way for user to locate and download cover art from Amazon. All processing is within SqueezeCenter plugin.  It is not a bulk coverart application.</desc>
+			<desc  lang="EN">FindArt plugins provides easy way for user to locate and download individual cover art from Amazon. All processing is within SqueezeCenter plugin.  It is not a bulk coverart application.</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=49245</link>
@@ -43,7 +41,7 @@
 		
 		<plugin name="NPRRadio" version="1.01" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">NPR Radio</title>
-			<desc  lang="EN">NPR Plugin to make it easy to find and play popular NPR prgrams. A plugin also makes it easier to listen to complete NPR Radio. Each program menu (e.g. Morning Edition, All things considered etc.) will list the program sgements which can be played separately. For each program, there is a "play all items" which will create a playlist of all the segments in the program.</desc>
+			<desc  lang="EN">NPR Plugin to make it easy to find and play popular NPR prgrams. A plugin also makes it easier to listen to complete NPR Radio. Each program menu (e.g. Morning Edition, All things considered etc.) will list the program sgements which can be played separately. For each program, there is a "play all items" which will create a playlist of all the segments in the program. </desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=51002</link>
@@ -54,7 +52,7 @@
 		
 		<plugin name="SharkPlay" version="1.1" target="unix" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">SharkPlay</title>
-			<desc  lang="EN">A Plugin to enable a Griffin RadioShark2 to be tuned and played throiugh SqueezeCenter</desc>
+			<desc  lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through SqueezeCenter</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=54926</link>
@@ -64,7 +62,7 @@
 		
 		<plugin name="SharkPlay" version="1.1" target="win"  minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">SharkPlay</title>
-			<desc  lang="EN">A Plugin to enable a Griffin RadioShark2 to be tuned and played through SqueezeCenter</desc>
+			<desc  lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through SqueezeCenter</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=54926</link>
@@ -74,7 +72,7 @@
 				
 		<plugin name="CDplayer" version="1.05b1_7.3" target="mac"  minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">CDplayer</title>
-			<desc  lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter</desc>
+			<desc  lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter. Requires CDDA2WAV to be installed.</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
@@ -83,7 +81,7 @@
 		</plugin>
 		<plugin name="CDplayer" version="1.05b1_7.3" target="win"  minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">CDplayer</title>
-			<desc  lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter</desc>
+			<desc  lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter. Includes CDDA2WAV and associated DLLs.</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
@@ -92,7 +90,7 @@
 		</plugin>
 		<plugin name="CDplayer" version="1.05b1_7.3" target="unix" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">CDplayer</title>
-			<desc  lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter</desc>
+			<desc  lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter. Requires CDDA2WAV to be installed. Use icedax for Ubuntu.</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
@@ -102,7 +100,7 @@
 			
 		<plugin name="WaveInput" version="1.04" target="win"  minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">WaveInput</title>
-			<desc  lang="EN">A Plugin to enable Windows PC audio to be captured and played through SqueezeCenter</desc>
+			<desc  lang="EN">A Plugin to enable Windows PC audio to be captured and played through SqueezeCenter. Default setup uses ALSA but OSS also works.</desc>
 			<creator>Joe Bryan updated by bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=35718</link>
