@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+
+<extensions>
+	
+	<details>
+		<title lang="EN">bpa's Squeezecenter Plugins</title>
+	</details>
+	
+	<plugins>
+
+
+		<plugin name="AACplus" version="1.1" target="mac|unix" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">AACplus</title>
+			<desc  lang="EN">A Plugin Settings to enable playing AACplus streamtypes using mplayer</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<url>http://bpaplugins.googlecode.com/files/AACplusLinux-v101.ZIP</url>
+			<link>http://wiki.slimdevices.com/index.php/AACplus</link>
+			<sha>9975a93c23b5830ed7782af9e20ba0c4b2f936c9</sha>
+		</plugin>
+		
+		<plugin name="AACplus" version="1.1"  target="win" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">AACplus</title>
+			<desc  lang="EN">A Plugin Settings to enable playing AACplus streamtypes using mplayer</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<link>http://wiki.slimdevices.com/index.php/AACplus</link>
+			<url>http://bpaplugins.googlecode.com/files/AACplusWin-v101.ZIP</url>
+			<sha>00279f52cce9f055de688751f63305769c5f13ad</sha>
+		</plugin>
+		
+		
+		<plugin name="FindArt" version="1.0" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">FindArt</title>
+			<desc  lang="EN">FindArt plugins provides easy way for user to locate and download cover art from Amazon. All processing is within SqueezeCenter plugin.  It is not a bulk coverart application.</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=49245</link>
+			<url>http://bpaplugins.googlecode.com/files/FindArt-v100.ZIP</url>
+			<sha>0e55e501d05a3e234d7ef2784f29b441c81507af</sha>
+		</plugin>
+		
+		
+		<plugin name="NPRRadio" version="1.01" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">NPR Radio</title>
+			<desc  lang="EN">NPR Plugin to make it easy to find and play popular NPR prgrams. A plugin also makes it easier to listen to complete NPR Radio. Each program menu (e.g. Morning Edition, All things considered etc.) will list the program sgements which can be played separately. For each program, there is a "play all items" which will create a playlist of all the segments in the program.</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=51002</link>
+			<url>http://homepage.eircom.net/~altondsl/repos/NPRRadiov101.ZIP</url>
+			<sha>c8a653101619c0c79bdd6da6399f427be00cb292</sha>
+		</plugin>
+		
+		
+		<plugin name="SharkPlay" version="1.1" target="unix" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">SharkPlay</title>
+			<desc  lang="EN">A Plugin to enable a Griffin RadioShark2 to be tuned and played throiugh SqueezeCenter</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=54926</link>
+			<url>http://bpaplugins.googlecode.com/files/sharkplay-linux-101.ZIP</url>
+			<sha>c4430b873599de1599d3e023da0d6ac9e8560c6f</sha>
+		</plugin>
+		
+		<plugin name="SharkPlay" version="1.1" target="win"  minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">SharkPlay</title>
+			<desc  lang="EN">A Plugin to enable a Griffin RadioShark2 to be tuned and played through SqueezeCenter</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=54926</link>
+			<url>http://bpaplugins.googlecode.com/files/sharkplay-win-101.ZIP</url>
+			<sha>342ebbb33d47793fd8b407a31a797c3b630eaf8b</sha>
+		</plugin>
+				
+		<plugin name="CDplayer" version="1.05b1_7.3" target="mac"  minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">CDplayer</title>
+			<desc  lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
+			<url>http://bpaplugins.googlecode.com/files/cdplayer-osx-v1.05b1_7.3.zip</url>
+			<sha>6fc0bc1d95a0d8da54d66d9e1a42754314faeb42</sha>
+		</plugin>
+		<plugin name="CDplayer" version="1.05b1_7.3" target="win"  minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">CDplayer</title>
+			<desc  lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
+			<url>http://bpaplugins.googlecode.com/files/cdplayer-windows-v1.05b1_7.3.zip</url>
+			<sha>e8a14fcb176ada462f3d3d4a46fa511a11db3d55</sha>
+		</plugin>
+		<plugin name="CDplayer" version="1.05b1_7.3" target="unix" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">CDplayer</title>
+			<desc  lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
+			<url>http://bpaplugins.googlecode.com/files/cdplayer-linux-v1.05b1_7.3.zip</url>
+			<sha>2893a31c6e189f2274cc10f1e8047a208b6094b8</sha>
+		</plugin>
+			
+		<plugin name="WaveInput" version="1.04" target="win"  minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">WaveInput</title>
+			<desc  lang="EN">A Plugin to enable Windows PC audio to be captured and played through SqueezeCenter</desc>
+			<creator>Joe Bryan updated by bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=35718</link>
+			<url>http://bpaplugins.googlecode.com/files/WaveInputWin-v104.ZIP</url>
+			<sha>443c75fbf53e7936b24454e38f63ab2394b218f9</sha>
+		</plugin>
+		<plugin name="WaveInput" version="1.03" target="unix" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">WaveInput</title>
+			<desc  lang="EN">A Plugin to enable Linux PC audio to be captured and played through SqueezeCenter</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=49584</link>
+			<url>http://bpaplugins.googlecode.com/files/WaveInputLinux-v103.ZIP</url>
+			<sha>f22038ade4b3bd2cd9102b64ecdffd34c147e367</sha>
+		</plugin>
+		<plugin name="InfoBrowserClassicFMtracks" version="1.0" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">Classic FM playlists</title>
+			<desc  lang="EN">InfoBrowser Addon to display the frecently played lists for Classic FM station.</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<url>http://bpaplugins.googlecode.com/files/InfoBrowserClassicFMtracks-v100.ZIP</url>
+			<sha>20342a8bbcd8724a5c458f1e008be6c503213598</sha>
+		</plugin>
+		
+		<plugin name="InfoBrowserSomaTracks" version="1.0" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">Soma FM playlists</title>
+			<desc  lang="EN">InfoBrowser Addon to display the frecently played lists for Soma FM statiosn.</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<url>http://bpaplugins.googlecode.com/files/InfoBrowserSomaTracks-v100.ZIP</url>
+			<sha>aeeb3045925f88e1ee0a3212c7bdf9b1e29d8231</sha>
+		</plugin>
+	
+	</plugins>
+	
+</extensions>
