@@ -142,6 +142,17 @@
 			<sha>aeeb3045925f88e1ee0a3212c7bdf9b1e29d8231</sha>
 		</plugin>
 	
+		
+		<plugin name="TunerPlay" version="1.0b5" target="win"  minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">TunerPlay</title>
+			<desc  lang="EN">A Plugin to enable a Analog TV/FM Tuner cards to be tuned and play FM stations through SC.  Require VLC ( http://www.videolan.org/vlc/download-windows.html )  to be installed </desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<url>http://bpaplugins.googlecode.com/files/TunerPlay-win-v100.ZIP</url>
+			<sha>6dd16609ff40f11573d1273a8579d6368ac25d96</sha>
+		</plugin>
+		
+
 	</plugins>
 	
 </extensions>
