@@ -29,19 +29,22 @@
 			<sha>00279f52cce9f055de688751f63305769c5f13ad</sha>
 		</plugin>
 		
-		
-		<plugin name="FindArt" version="1.01" minTarget="7.3" maxTarget="7.*">
+		<plugin name="FindArt" version="2.04b1" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">FindArt</title>
-			<desc  lang="EN">FindArt plugins provides easy way for user to locate and download cover art from Amazon. All processing is within SqueezeCenter plugin.  It is not a bulk coverart application.</desc>
-			<changes>- Fixed bug of Title with special chars instring such as ampersand.
-			- Added option to restrict search using Track Artist name</changes>
+			<desc  lang="EN">FindArt plugins provides easy way for user to locate and download cover art from Amazon. All processing is within SqueezeCenter plugin.  It is not a bulk coverart application.  Ver 2.0 has the following 
+				* Find Cover Art menu off Track Info page while browsing library - no longer limited to use only on playing track. 
+				* Find Art now works on Controller from Track Info displays.  
+				* Search related Find Art settings can be changed from Settings menu on Controller.
+				* Find Art menu position on Track Info page is configurable (top,bottom,auto)
+				* A preference setting to display a Custom Search facility on WebUI where user can change the search terms.
+				* New artwork will show up quicker on WebUI and controller without need for rescan. Caching in Controller and WebUI sometimes prevents updated art being displayed immediately. Restarting the controller or clearing the browser cache (on Firefox under Clear Private Data)  will generally enable updated art to be views. 
+				* fix for bug when search Title has accented characters. </desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
-			<link>http://forums.slimdevices.com/showthread.php?t=49245</link>
-			<url>http://bpaplugins.googlecode.com/files/FindArt-v101.ZIP</url>
-			<sha>a59c764c543d2e59d1192c79aeb348d7082ab3b6</sha>
-		</plugin>
-		
+			<link>http://code.google.com/p/bpaplugins/</link>
+			<url>http://bpaplugins.googlecode.com/files/FindArt-v204.ZIP</url>
+			<sha>77f3d7c42f4d017588bde8ed3c3ffa65d52d8c21</sha>
+		</plugin>		
 		
 		<plugin name="NPRRadio" version="1.01" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">NPR Radio</title>
