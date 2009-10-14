@@ -1,5 +1,4 @@
 <?xml version="1.0"?>
-
 <extensions>
 	
 	<details>
@@ -9,9 +8,9 @@
 	<plugins>
 		
 
-		<plugin name="AACplus" version="1.1" target="mac|unix" minTarget="7.3" maxTarget="7.*">
+		<plugin name="AACplus" version="1.1" target="mac|unix" minTarget="7.3" maxTarget="7.3.*">
 			<title lang="EN">AACplus</title>
-			<desc  lang="EN">A Plugin Settings to enable playing AACplus streamtypes using mplayer. Requires mplayer to be installed.</desc>
+			<desc lang="EN">Pre SC 7.3.3 only. A Plugin Settings to enable playing AACplus streamtypes using mplayer. Requires mplayer to be installed.</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<url>http://bpaplugins.googlecode.com/files/AACplusLinux-v101.ZIP</url>
@@ -19,9 +18,9 @@
 			<sha>9975a93c23b5830ed7782af9e20ba0c4b2f936c9</sha>
 		</plugin>
 		
-		<plugin name="AACplus" version="1.1"  target="win" minTarget="7.3" maxTarget="7.*">
+		<plugin name="AACplus" version="1.1" target="win" minTarget="7.3" maxTarget="7.3.*">
 			<title lang="EN">AACplus</title>
-			<desc  lang="EN">A Plugin Settings to enable playing AACplus streamtypes using mplayer. Requires mplayer to be installed.</desc>
+			<desc lang="EN">Pre SC 7.3.3 only. A Plugin Settings to enable playing AACplus streamtypes using mplayer. Requires mplayer to be installed.</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://wiki.slimdevices.com/index.php/AACplus</link>
@@ -29,9 +28,9 @@
 			<sha>00279f52cce9f055de688751f63305769c5f13ad</sha>
 		</plugin>
 		
-		<plugin name="FindArt" version="2.05b2" minTarget="7.3" maxTarget="7.*">
+		<plugin name="FindArt" version="2.05b3" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">FindArt</title>
-			<desc  lang="EN">FindArt plugins provides easy way for user to locate and download cover art from Amazon. All processing is within SqueezeCenter plugin.  It is not a bulk coverart application.  Ver 2.05 has the following changes 
+			<desc lang="EN">FindArt plugins provides easy way for user to locate and download cover art from Amazon. All processing is within SqueezeCenter plugin.  It is not a bulk coverart application.  Ver 2.05 has the following changes 
 				* Support for Amazon changed API.  
 				User have to sign up to Amazon AWS at http://www.amazon.com/gp/aws/registration/registration-form.html and enter Key access and secret key into FindArt settings.
 				* Support for SC 7.4 
@@ -40,12 +39,12 @@
 			<email>baltontwo@eircom.net</email>
 			<link>http://code.google.com/p/bpaplugins/</link>
 			<url>http://bpaplugins.googlecode.com/files/FindArt-v205.ZIP</url>
-			<sha>5d68f5927b8e9270e929ad7f8c7a4138270c6b06</sha>
+			<sha>99e4ce5c3898b9c29fb3ee200f853328230e4d93</sha>
 		</plugin>		
 		
 		<plugin name="NPRRadio" version="1.02" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">NPR Radio</title>
-			<desc  lang="EN">NPR Plugin to make it easy to find and play popular NPR prgrams. A plugin also makes it easier to listen to complete NPR Radio. Each program menu (e.g. Morning Edition, All things considered etc.) will list the program sgements which can be played separately. For each program, there is a "play all items" which will create a playlist of all the segments in the program.
+			<desc lang="EN">NPR Plugin to make it easy to find and play popular NPR prgrams. A plugin also makes it easier to listen to complete NPR Radio. Each program menu (e.g. Morning Edition, All things considered etc.) will list the program sgements which can be played separately. For each program, there is a "play all items" which will create a playlist of all the segments in the program.
 				v1.02 adds the following
 				* Support for American routes
 				* menu item for additional podcasts
@@ -58,9 +57,9 @@
 		</plugin>
 		
 		
-		<plugin name="SharkPlay" version="1.1" target="unix" minTarget="7.3" maxTarget="7.*">
+		<plugin name="SharkPlay" version="1.1" target="unix" minTarget="7.3" maxTarget="7.3.*">
 			<title lang="EN">SharkPlay</title>
-			<desc  lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through SqueezeCenter</desc>
+			<desc lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through SqueezeCenter</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=54926</link>
@@ -68,19 +67,42 @@
 			<sha>c4430b873599de1599d3e023da0d6ac9e8560c6f</sha>
 		</plugin>
 		
-		<plugin name="SharkPlay" version="1.1" target="win"  minTarget="7.3" maxTarget="7.*">
+		<plugin name="SharkPlay" version="1.2" target="unix" minTarget="7.4" maxTarget="7.*">
 			<title lang="EN">SharkPlay</title>
-			<desc  lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through SqueezeCenter</desc>
+			<desc lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through SqueezeCenter</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=54926</link>
+			<url>http://bpaplugins.googlecode.com/files/sharkplay-linux-102.ZIP</url>
+			<sha>007ab351a55cd9e7e31cc9d2a4a647108d442111</sha>
+		</plugin>
+
+		
+		
+		<plugin name="SharkPlay" version="1.1" target="win" minTarget="7.3" maxTarget="7.3.*">
+			<title lang="EN">SharkPlay</title>
+			<desc lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through SqueezeCenter</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=54926</link>
 			<url>http://bpaplugins.googlecode.com/files/sharkplay-win-101.ZIP</url>
 			<sha>342ebbb33d47793fd8b407a31a797c3b630eaf8b</sha>
 		</plugin>
-				
-		<plugin name="CDplayer" version="1.06b2_7.3" target="mac"  minTarget="7.3" maxTarget="7.*">
+		<plugin name="SharkPlay" version="1.2" target="win" minTarget="7.4" maxTarget="7.*">
+			<title lang="EN">SharkPlay</title>
+			<desc lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through SqueezeCenter</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=54926</link>
+			<url>http://bpaplugins.googlecode.com/files/sharkplay-win-102.ZIP</url>
+			<sha>cd98ba0de84200a6118c338e8c725a2feda23130</sha>
+		</plugin>
+		
+		
+		
+		<plugin name="CDplayer" version="1.06b2_7.3" target="mac" minTarget="7.3" maxTarget="7.3.*">
 			<title lang="EN">CDplayer</title>
-			<desc  lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter. Requires CDDA2WAV to be installed.</desc>
+			<desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter. Requires CDDA2WAV to be installed.</desc>
 			<creator>bpa</creator>
 			<changes>- Limit imposed on CDD2WAV output in case of unexpected behaviour.</changes>
 			<email>baltontwo@eircom.net</email>
@@ -88,9 +110,9 @@
 			<url>http://bpaplugins.googlecode.com/files/cdplayer-osx-v1.06b2_7.3.zip</url>
 			<sha>6344aae255739beb4ef82866fcf21c7635eca8bf</sha>
 		</plugin>
-		<plugin name="CDplayer" version="1.06b2_7.3" target="win"  minTarget="7.3" maxTarget="7.*">
+		<plugin name="CDplayer" version="1.06b2_7.3" target="win" minTarget="7.3" maxTarget="7.3.*">
 			<title lang="EN">CDplayer</title>
-			<desc  lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter. Includes CDDA2WAV and associated DLLs.</desc>
+			<desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter. Includes CDDA2WAV and associated DLLs.</desc>
 			<creator>bpa</creator>
 			<changes>- Limit imposed on CDD2WAV output in case of unexpected behaviour.</changes>
 			<email>baltontwo@eircom.net</email>
@@ -98,9 +120,9 @@
 			<url>http://bpaplugins.googlecode.com/files/cdplayer-windows-v1.06b2_7.3.zip</url>
 			<sha>c5d24d1e24ce8e86c83adb5abdeea405f9467b3b</sha>
 		</plugin>
-		<plugin name="CDplayer" version="1.06b2_7.3" target="unix" minTarget="7.3" maxTarget="7.*">
+		<plugin name="CDplayer" version="1.06b2_7.3" target="unix" minTarget="7.3" maxTarget="7.3.*">
 			<title lang="EN">CDplayer</title>
-			<desc  lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter. Requires CDDA2WAV to be installed. Use icedax for Ubuntu.</desc>
+			<desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter. Requires CDDA2WAV to be installed. Use icedax for Ubuntu.</desc>
 			<creator>bpa</creator>
 			<changes>- On Linux status of CD tray is checked before trying to read.
 				- Limit imposed on CDD2WAV output in case of unexpected behaviour.</changes>
@@ -109,37 +131,87 @@
 			<url>http://bpaplugins.googlecode.com/files/cdplayer-linux-v1.06b2_7.3.zip</url>
 			<sha>3b9749d8c2b74bb87921dbea5404e6652d923247</sha>
 		</plugin>
+		<plugin name="CDplayer" version="1.08_7.3" target="mac" minTarget="7.4" maxTarget="7.*">
+			<title lang="EN">CDplayer</title>
+			<desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter. Requires CDDA2WAV to be installed.</desc>
+			<creator>bpa</creator>
+			<changes>- Limit imposed on CDD2WAV output in case of unexpected behaviour.</changes>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
+			<url>http://bpaplugins.googlecode.com/files/cdplayer-osx-v1.08_7.3.zip</url>
+			<sha>dcc732a1a0c0bd29952bd59d7ebcd7e3f189da03</sha>
+		</plugin>
+		<plugin name="CDplayer" version="1.08_7.3" target="win" minTarget="7.4" maxTarget="7.*">
+			<title lang="EN">CDplayer</title>
+			<desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter. Includes CDDA2WAV and associated DLLs.</desc>
+			<creator>bpa</creator>
+			<changes>- Limit imposed on CDD2WAV output in case of unexpected behaviour.</changes>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
+			<url>http://bpaplugins.googlecode.com/files/cdplayer-windows-v1.08_7.3.zip</url>
+			<sha>196ad5a0557d96763f4adba63ada044c135058b6</sha>
+		</plugin>
+		<plugin name="CDplayer" version="1.08_7.3" target="unix" minTarget="7.4" maxTarget="7.*">
+			<title lang="EN">CDplayer</title>
+			<desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter. Requires CDDA2WAV to be installed. Use icedax for Ubuntu.</desc>
+			<creator>bpa</creator>
+			<changes>- On Linux status of CD tray is checked before trying to read.
+				- Limit imposed on CDD2WAV output in case of unexpected behaviour.</changes>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
+			<url>http://bpaplugins.googlecode.com/files/cdplayer-linux-v1.08_7.3.zip</url>
+			<sha>c4dd73a07703f1f90a27b8473fc85d4aca13f197</sha>
+		</plugin>
 			
-		<plugin name="WaveInput" version="1.04" target="win"  minTarget="7.3" maxTarget="7.*">
+		<plugin name="WaveInput" version="1.04" target="win" minTarget="7.3" maxTarget="7.3.*">
 			<title lang="EN">WaveInput</title>
-			<desc  lang="EN">A Plugin to enable Windows PC audio to be captured and played through SqueezeCenter</desc>
+			<desc lang="EN">A Plugin to enable Windows PC audio to be captured and played through SqueezeCenter</desc>
 			<creator>Joe Bryan updated by bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=35718</link>
 			<url>http://bpaplugins.googlecode.com/files/WaveInputWin-v104.ZIP</url>
 			<sha>443c75fbf53e7936b24454e38f63ab2394b218f9</sha>
 		</plugin>
-		<plugin name="WaveInput" version="1.03" target="unix" minTarget="7.3" maxTarget="7.*">
+		<plugin name="WaveInput" version="1.03" target="unix" minTarget="7.3" maxTarget="7.3.*">
 			<title lang="EN">WaveInput</title>
-			<desc  lang="EN">A Plugin to enable Linux PC audio to be captured and played through SqueezeCenter. Default setup uses ALSA but OSS also works.</desc>
+			<desc lang="EN">A Plugin to enable Linux PC audio to be captured and played through SqueezeCenter. Default setup uses ALSA but OSS also works.</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=49584</link>
 			<url>http://bpaplugins.googlecode.com/files/WaveInputLinux-v103.ZIP</url>
 			<sha>f22038ade4b3bd2cd9102b64ecdffd34c147e367</sha>
 		</plugin>
-		<plugin name="InfoBrowserClassicFMtracks" version="1.0" minTarget="7.3" maxTarget="7.*">
+		<plugin name="WaveInput" version="1.05" target="win" minTarget="7.4" maxTarget="7.*">
+			<title lang="EN">WaveInput</title>
+			<desc lang="EN">A Plugin to enable Windows PC audio to be captured and played through SqueezeCenter</desc>
+			<creator>Joe Bryan updated by bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=35718</link>
+			<url>http://bpaplugins.googlecode.com/files/WaveInputWin-v105.ZIP</url>
+			<sha>9044629935928c4523f8a283624cc9dbd9f8736a</sha>
+		</plugin>
+		<plugin name="WaveInput" version="1.04" target="unix" minTarget="7.4" maxTarget="7.*">
+			<title lang="EN">WaveInput</title>
+			<desc lang="EN">A Plugin to enable Linux PC audio to be captured and played through SqueezeCenter. Default setup uses ALSA but OSS also works.</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=49584</link>
+			<url>http://bpaplugins.googlecode.com/files/WaveInputLinux-v104.ZIP</url>
+			<sha>ce4ffd8d678b2dcd2fb44366ba8d81e5cc1deb69</sha>
+		</plugin>
+		
+		<plugin name="InfoBrowserClassicFMtracks" version="1.0" minTarget="7.3" maxTarget="7.3.*">
 			<title lang="EN">Classic FM playlists</title>
-			<desc  lang="EN">InfoBrowser Addon to display the frecently played lists for Classic FM station.</desc>
+			<desc lang="EN">InfoBrowser Addon to display the frecently played lists for Classic FM station.</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<url>http://bpaplugins.googlecode.com/files/InfoBrowserClassicFMtracks-v100.ZIP</url>
 			<sha>20342a8bbcd8724a5c458f1e008be6c503213598</sha>
 		</plugin>
 		
-		<plugin name="InfoBrowserSomaTracks" version="1.0" minTarget="7.3" maxTarget="7.*">
+		<plugin name="InfoBrowserSomaTracks" version="1.0" minTarget="7.3" maxTarget="7.3.*">
 			<title lang="EN">Soma FM playlists</title>
-			<desc  lang="EN">InfoBrowser Addon to display the frecently played lists for Soma FM statiosn.</desc>
+			<desc lang="EN">InfoBrowser Addon to display the frecently played lists for Soma FM statiosn.</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<url>http://bpaplugins.googlecode.com/files/InfoBrowserSomaTracks-v100.ZIP</url>
@@ -147,9 +219,9 @@
 		</plugin>
 	
 		
-		<plugin name="TunerPlay" version="1.0b5" target="win"  minTarget="7.3" maxTarget="7.*">
+		<plugin name="TunerPlay" version="1.0b5" target="win" minTarget="7.3" maxTarget="7.3.*">
 			<title lang="EN">TunerPlay</title>
-			<desc  lang="EN">A Plugin to enable a Analog TV/FM Tuner cards to be tuned and play FM stations through SC.  Require VLC ( http://www.videolan.org/vlc/download-windows.html )  to be installed </desc>
+			<desc lang="EN">A Plugin to enable a Analog TV/FM Tuner cards to be tuned and play FM stations through SC.  Require VLC ( http://www.videolan.org/vlc/download-windows.html )  to be installed </desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<url>http://bpaplugins.googlecode.com/files/TunerPlay-win-v100.ZIP</url>
