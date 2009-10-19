@@ -28,7 +28,7 @@
 			<sha>00279f52cce9f055de688751f63305769c5f13ad</sha>
 		</plugin>
 		
-		<plugin name="FindArt" version="2.05b3" minTarget="7.3" maxTarget="7.*">
+		<plugin name="FindArt" version="2.05b4" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">FindArt</title>
 			<desc lang="EN">FindArt plugins provides easy way for user to locate and download cover art from Amazon. All processing is within SqueezeCenter plugin.  It is not a bulk coverart application.  Ver 2.05 has the following changes 
 				* Support for Amazon changed API.  
@@ -39,7 +39,7 @@
 			<email>baltontwo@eircom.net</email>
 			<link>http://code.google.com/p/bpaplugins/</link>
 			<url>http://bpaplugins.googlecode.com/files/FindArt-v205.ZIP</url>
-			<sha>99e4ce5c3898b9c29fb3ee200f853328230e4d93</sha>
+			<sha>a7db9c07b50b49726967d7068a4117b7bfd576da</sha>
 		</plugin>		
 		
 		<plugin name="NPRRadio" version="1.02" minTarget="7.3" maxTarget="7.*">
@@ -131,7 +131,7 @@
 			<url>http://bpaplugins.googlecode.com/files/cdplayer-linux-v1.06b2_7.3.zip</url>
 			<sha>3b9749d8c2b74bb87921dbea5404e6652d923247</sha>
 		</plugin>
-		<plugin name="CDplayer" version="1.08_7.3" target="mac" minTarget="7.4" maxTarget="7.*">
+		<plugin name="CDplayer" version="1.08_7.3a" target="mac" minTarget="7.4" maxTarget="7.*">
 			<title lang="EN">CDplayer</title>
 			<desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter. Requires CDDA2WAV to be installed.</desc>
 			<creator>bpa</creator>
@@ -139,9 +139,9 @@
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
 			<url>http://bpaplugins.googlecode.com/files/cdplayer-osx-v1.08_7.3.zip</url>
-			<sha>dcc732a1a0c0bd29952bd59d7ebcd7e3f189da03</sha>
+			<sha>0b6e17be160251349644a543571c3427583eb7a5</sha>
 		</plugin>
-		<plugin name="CDplayer" version="1.08_7.3" target="win" minTarget="7.4" maxTarget="7.*">
+		<plugin name="CDplayer" version="1.08_7.3a" target="win" minTarget="7.4" maxTarget="7.*">
 			<title lang="EN">CDplayer</title>
 			<desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter. Includes CDDA2WAV and associated DLLs.</desc>
 			<creator>bpa</creator>
@@ -149,9 +149,9 @@
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
 			<url>http://bpaplugins.googlecode.com/files/cdplayer-windows-v1.08_7.3.zip</url>
-			<sha>196ad5a0557d96763f4adba63ada044c135058b6</sha>
+			<sha>e7d4fec841021de2808db0c2ba4ec49694f2eec6</sha>
 		</plugin>
-		<plugin name="CDplayer" version="1.08_7.3" target="unix" minTarget="7.4" maxTarget="7.*">
+		<plugin name="CDplayer" version="1.08_7.3a" target="unix" minTarget="7.4" maxTarget="7.*">
 			<title lang="EN">CDplayer</title>
 			<desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through SqueezeCenter. Requires CDDA2WAV to be installed. Use icedax for Ubuntu.</desc>
 			<creator>bpa</creator>
@@ -160,7 +160,7 @@
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
 			<url>http://bpaplugins.googlecode.com/files/cdplayer-linux-v1.08_7.3.zip</url>
-			<sha>c4dd73a07703f1f90a27b8473fc85d4aca13f197</sha>
+			<sha>a737b5416b88289dc50977c8e4478dbf9d8e1967</sha>
 		</plugin>
 			
 		<plugin name="WaveInput" version="1.04" target="win" minTarget="7.3" maxTarget="7.3.*">
