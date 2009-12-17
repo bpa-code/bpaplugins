@@ -28,18 +28,19 @@
 			<sha>00279f52cce9f055de688751f63305769c5f13ad</sha>
 		</plugin>
 		
-		<plugin name="FindArt" version="2.05b4" minTarget="7.3" maxTarget="7.*">
+		<plugin name="FindArt" version="2.06" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">FindArt</title>
 			<desc lang="EN">FindArt plugins provides easy way for user to locate and download cover art from Amazon. All processing is within SqueezeCenter plugin.  It is not a bulk coverart application.  Ver 2.05 has the following changes 
 				* Support for Amazon changed API.  
 				User have to sign up to Amazon AWS at http://www.amazon.com/gp/aws/registration/registration-form.html and enter Key access and secret key into FindArt settings.
 				* Support for SC 7.4 
+				2.06 has a fix to save cover art in a specified directory.
 			</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://code.google.com/p/bpaplugins/</link>
-			<url>http://bpaplugins.googlecode.com/files/FindArt-v205.ZIP</url>
-			<sha>a7db9c07b50b49726967d7068a4117b7bfd576da</sha>
+			<url>http://bpaplugins.googlecode.com/files/FindArt-v206.ZIP</url>
+			<sha>d0c404e06a58d0dcd4a2ea0e4a20d35e5c9137be</sha>
 		</plugin>		
 		
 		<plugin name="NPRRadio" version="1.02" minTarget="7.3" maxTarget="7.*">
@@ -226,6 +227,95 @@
 			<email>baltontwo@eircom.net</email>
 			<url>http://bpaplugins.googlecode.com/files/TunerPlay-win-v100.ZIP</url>
 			<sha>6dd16609ff40f11573d1273a8579d6368ac25d96</sha>
+		</plugin>
+		
+		<plugin name="SoftSqueeze" version="3.9b2" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">Softsqueeze</title>
+			<desc  lang="EN">Softsqueeze a Squeezebox SB3/Boom/Transporter emulator.
+				Due to timeout problem with SBS plugin installer as SoftSqueeze.jar is large. The Plugin has been rewritten to download Squeezebox itself.  This should resultin more reliable installs especially for users with slower internet connections</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<url>http://bpaplugins.googlecode.com/files/SoftSqueeze-v39b2.ZIP</url>
+			<sha>22e4abbb06b0f5c1c51a2e47388ef0d2043a6072</sha>
+		</plugin>
+		
+		<plugin name="RTEplayer" version="1.0" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">RTEplayer</title>
+			<desc  lang="EN">This plugin provides easy access to RTE Radio (Ireland National Radio) podcasts  (MP3) and Listen Back (RealAudio)
+				There is some duplication between podcasts and Listen Back.  The Listen Back are usually a complete record of the broadcast program with no editing but since it is in RealAudio it needs a server which supports transcoding.  Podcasts are usually edited and sometimes just segments of the broadcasts program.
+				PlayReal plugin needs tobeinstalled to play RealAudio Listen Back programmes.
+				RTE seem to be changing over from RealAudio to encrypted Flash so it is probable in future only podcast will be available.</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<url>http://bpaplugins.googlecode.com/files/RTEplayer-v100.ZIP</url>
+			<sha>4931b9d26e64b24250d057ad3e721d6516d269d9</sha>
+		</plugin>
+		
+		<plugin name="PHCplayer" version="1.0" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">PHCplayer</title>
+			<desc  lang="EN">This plugin provides easy access to recent Prarie Home Companion Archive. The ahrcive is mainly in RealAudio but more recent programs are   in Flash/AAC.  This plugin only plays RealAudio version and so require a server that supports transcoding and the PlayReal plugin to be installed.</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<url>http://bpaplugins.googlecode.com/files/PHCplayer-v100.ZIP</url>
+			<sha>01880d4f8d95f077d7aefa00ca27775f6d212bd2</sha>
+		</plugin>
+		
+		<plugin name="PlayReal" version="1.0" target="mac" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">PlayReal</title>
+			<desc  lang="EN">This plugin provides support for playing RealAudio streams and files using mplayer.</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<url>http://bpaplugins.googlecode.com/files/PlayReal-linux-v100.ZIP</url>
+			<sha>326c7673a43efbcdab23c2a0156641c0951571d9</sha>
+		</plugin>
+		
+		
+		<plugin name="PlayReal" version="1.0" target="unix" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">PlayReal</title>
+			<desc  lang="EN">This plugin provides support for playing RealAudio streams and files using mplayer.</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<url>http://bpaplugins.googlecode.com/files/PlayReal-linux-v100.ZIP</url>
+			<sha>326c7673a43efbcdab23c2a0156641c0951571d9</sha>
+		</plugin>
+		
+		
+		<plugin name="PlayReal" version="1.0" target="win" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">PlayReal</title>
+			<desc  lang="EN">This plugin provides support for playing RealAudio streams and files using mplayer.</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<url>http://bpaplugins.googlecode.com/files/PlayReal-win-v100.ZIP</url>
+			<sha>950b40ab51d143e9f6898d6d7c13a645640b85b4</sha>
+		</plugin>
+		
+		
+		
+		<plugin name="PlayWMA" version="1.0" target="unix" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">PlayWMA</title>
+			<desc  lang="EN">This plugin provides support on Linux and OSX for playing Windows Media streams and files using mplayer. It is mainly used for player which do not supports WMA such as SliMP3, SqueezeBox1, Softsqueeze, Squeezeslave and Squeezeplay Desktop.</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<url>http://bpaplugins.googlecode.com/files/PlayWMA-v100.ZIP</url>
+			<sha>ad541fa36ca1883f18c7e4752fbbf10367567cca</sha>
+		</plugin>
+		<plugin name="PlayWMA" version="1.0" target="mac" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">PlayWMA</title>
+			<desc  lang="EN">This plugin provides support on Linux and OSX for playing Windows Media streams and files using mplayer. It is mainly used for player which do not supports WMA such as SliMP3, SqueezeBox1, Softsqueeze, Squeezeslave and Squeezeplay Desktop.</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<url>http://bpaplugins.googlecode.com/files/PlayWMA-v100.ZIP</url>
+			<sha>ad541fa36ca1883f18c7e4752fbbf10367567cca</sha>
+		</plugin>
+		
+		
+		<plugin name="BBCiPlayerExtra" version="1.0" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">BBCiPlayerExtra</title>
+			<desc  lang="EN">BBCiPlayer Extra which provides Categories, A-Z and Schedule menus for BBCiPlayer and can add Now and Next program data to main live WMA stations </desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<url>http://bpaplugins.googlecode.com/files/BBCiPlayerExtra-v100.ZIP</url>
+			<sha>a38cef107c9b7f4e4f52b44f32a91ce8c1381c7a</sha>
 		</plugin>
 		
 
