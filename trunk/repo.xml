@@ -309,13 +309,13 @@
 		</plugin>
 		
 		
-		<plugin name="BBCiPlayerExtra" version="1.0" minTarget="7.3" maxTarget="7.*">
+		<plugin name="BBCiPlayerExtra" version="1.1" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">BBCiPlayerExtra</title>
 			<desc  lang="EN">BBCiPlayer Extra which provides Categories, A-Z and Schedule menus for BBCiPlayer and can add Now and Next program data to main live WMA stations </desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
-			<url>http://bpaplugins.googlecode.com/files/BBCiPlayerExtra-v100.ZIP</url>
-			<sha>a38cef107c9b7f4e4f52b44f32a91ce8c1381c7a</sha>
+			<url>http://bpaplugins.googlecode.com/files/BBCiPlayerExtra-v101.ZIP</url>
+			<sha>b08ea08a2c46ddc832dc6c54692cd8bb63176dfe</sha>
 		</plugin>
 		
 
