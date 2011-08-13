@@ -139,8 +139,8 @@
 			<changes>- Limit imposed on CDD2WAV output in case of unexpected behaviour.</changes>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
-			<url>http://bpaplugins.googlecode.com/files/cdplayer-osx-v1.08_7.3.zip</url>
-			<sha>0b6e17be160251349644a543571c3427583eb7a5</sha>
+			<url>http://bpaplugins.googlecode.com/files/cdplayer-osx-v1.08_7.6.ZIP</url>
+			<sha>dea96f6eea77a2b12ad246be4ff738d13a196d82</sha>
 		</plugin>
 		<plugin name="CDplayer" version="1.08_7.3a" target="win" minTarget="7.4" maxTarget="7.*">
 			<title lang="EN">CDplayer</title>
@@ -149,8 +149,8 @@
 			<changes>- Limit imposed on CDD2WAV output in case of unexpected behaviour.</changes>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
-			<url>http://bpaplugins.googlecode.com/files/cdplayer-windows-v1.08_7.3.zip</url>
-			<sha>e7d4fec841021de2808db0c2ba4ec49694f2eec6</sha>
+			<url>http://bpaplugins.googlecode.com/files/cdplayer-windows-v1.08_7.6.ZIP</url>
+			<sha>bc781e1cc53165816421db0284f398b8e68d75cd</sha>
 		</plugin>
 		<plugin name="CDplayer" version="1.08_7.3a" target="unix" minTarget="7.4" maxTarget="7.*">
 			<title lang="EN">CDplayer</title>
@@ -160,8 +160,8 @@
 				- Limit imposed on CDD2WAV output in case of unexpected behaviour.</changes>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
-			<url>http://bpaplugins.googlecode.com/files/cdplayer-linux-v1.08_7.3.zip</url>
-			<sha>a737b5416b88289dc50977c8e4478dbf9d8e1967</sha>
+			<url>http://bpaplugins.googlecode.com/files/cdplayer-linux-v1.08_7.6.ZIP</url>
+			<sha>515b184a99857ac929432d0a06fb08d79fbc4a26</sha>
 		</plugin>
 			
 		<plugin name="WaveInput" version="1.04" target="win" minTarget="7.3" maxTarget="7.3.*">
@@ -197,8 +197,8 @@
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=49584</link>
-			<url>http://bpaplugins.googlecode.com/files/WaveInputLinux-v104.ZIP</url>
-			<sha>ce4ffd8d678b2dcd2fb44366ba8d81e5cc1deb69</sha>
+			<url>http://bpaplugins.googlecode.com/files/WaveInputLinux-v104_7.6.ZIP</url>
+			<sha>b299799b316edcfb138839b7752e4b15239a639f</sha>
 		</plugin>
 		
 		<plugin name="InfoBrowserClassicFMtracks" version="1.0" minTarget="7.3" maxTarget="7.3.*">
@@ -309,13 +309,13 @@
 		</plugin>
 		
 		
-		<plugin name="BBCiPlayerExtra" version="1.3" minTarget="7.3" maxTarget="7.*">
+		<plugin name="BBCiPlayerExtra" version="1.4" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">BBCiPlayerExtra</title>
-			<desc  lang="EN">BBCiPlayer Extra which provides Categories, A-Z and Schedule menus for BBCiPlayer and can add Now and Next program data to main live WMA stations </desc>
+			<desc  lang="EN">BBCiPlayer Extra which provides Categories, A-Z, Schedule and Archive content menus for BBCiPlayer and can add Now and Next program data to main live WMA stations </desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
-			<url>http://bpaplugins.googlecode.com/files/BBCiPlayerExtra-v103.ZIP</url>
-			<sha>3d56b807909e3f5e670c6bf03ea9b49018aaddfe</sha>
+			<url>http://bpaplugins.googlecode.com/files/BBCiPlayerExtra-v104.ZIP</url>
+			<sha>b8e2f9e95c1376e791c7cd345811caa1efa7ca20</sha>
 		</plugin>
 		
 
