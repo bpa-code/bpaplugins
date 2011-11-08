@@ -43,18 +43,15 @@
 			<sha>d0c404e06a58d0dcd4a2ea0e4a20d35e5c9137be</sha>
 		</plugin>		
 		
-		<plugin name="NPRRadio" version="1.02" minTarget="7.3" maxTarget="7.*">
+		<plugin name="NPRRadio" version="1.03" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">NPR Radio</title>
 			<desc lang="EN">NPR Plugin to make it easy to find and play popular NPR prgrams. A plugin also makes it easier to listen to complete NPR Radio. Each program menu (e.g. Morning Edition, All things considered etc.) will list the program sgements which can be played separately. For each program, there is a "play all items" which will create a playlist of all the segments in the program.
-				v1.02 adds the following
-				* Support for American routes
-				* menu item for additional podcasts
-				* where possible NPR or similar icons displayed in Now Playing</desc>
+				v1.03 fixes a bug with Play All on Squeezeplay devices in 7.6 onwards</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=51002</link>
-			<url>http://bpaplugins.googlecode.com/files/NPRRadiov102.ZIP</url>
-			<sha>d2b7303980ab4ea3591ad12193adb3e275dbbcb8</sha>
+			<url>http://bpaplugins.googlecode.com/files/NPRRadiov103.ZIP</url>
+			<sha>ed0f352f445bfce75014f2bc856d13fa0d8a2b32</sha>
 		</plugin>
 		
 		
@@ -309,13 +306,13 @@
 		</plugin>
 		
 		
-		<plugin name="BBCiPlayerExtra" version="1.4" minTarget="7.3" maxTarget="7.*">
+		<plugin name="BBCiPlayerExtra" version="1.5" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">BBCiPlayerExtra</title>
 			<desc  lang="EN">BBCiPlayer Extra which provides Categories, A-Z, Schedule and Archive content menus for BBCiPlayer and can add Now and Next program data to main live WMA stations </desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
-			<url>http://bpaplugins.googlecode.com/files/BBCiPlayerExtra-v104.ZIP</url>
-			<sha>b8e2f9e95c1376e791c7cd345811caa1efa7ca20</sha>
+			<url>http://bpaplugins.googlecode.com/files/BBCiPlayerExtra-v105.ZIP</url>
+			<sha>17a4edc2f763b9178e65c0d387db6a55a8f5ae11</sha>
 		</plugin>
 		
 
