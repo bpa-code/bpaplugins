@@ -311,7 +311,7 @@
 			<desc  lang="EN">BBCiPlayer Extra which provides access to all iPlayer radio programs by station, categories and schedules.</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
-			<url>http://bpaplugins.googlecode.com/files/BBCiPlayerExtra-v106.ZIP</url>
+			<url>http://bpaplugins.googlecode.com/svn/trunk/BBCiPlayerExtra-v106.ZIP</url>
 			<sha>c5fa17a006f789298590af0971fc3afc1e4619d3</sha>
 		</plugin>
 		
