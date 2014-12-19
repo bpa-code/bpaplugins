@@ -306,13 +306,13 @@
 		</plugin>
 		
 		
-		<plugin name="BBCiPlayerExtra" version="1.5" minTarget="7.3" maxTarget="7.*">
+		<plugin name="BBCiPlayerExtra" version="1.6" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">BBCiPlayerExtra</title>
-			<desc  lang="EN">BBCiPlayer Extra which provides Categories, A-Z, Schedule and Archive content menus for BBCiPlayer and can add Now and Next program data to main live WMA stations </desc>
+			<desc  lang="EN">BBCiPlayer Extra which provides access to all iPlayer radio programs by station, categories and schedules.</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
-			<url>http://bpaplugins.googlecode.com/files/BBCiPlayerExtra-v105.ZIP</url>
-			<sha>17a4edc2f763b9178e65c0d387db6a55a8f5ae11</sha>
+			<url>http://bpaplugins.googlecode.com/files/BBCiPlayerExtra-v106.ZIP</url>
+			<sha>c5fa17a006f789298590af0971fc3afc1e4619d3</sha>
 		</plugin>
 		
 
