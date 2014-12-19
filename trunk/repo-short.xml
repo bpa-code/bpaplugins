@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<extensions>
+	
+	<details>
+		<title lang="EN">bpa's Squeezecenter Plugins Short</title>
+	</details>
+	
+	<plugins>
+		
+		<plugin name="BBCiPlayerExtra" version="1.6" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">BBCiPlayerExtra</title>
+			<desc  lang="EN">BBCiPlayer Extra which provides access to all iPlayer radio programs by station, categories and schedules.</desc>
+			<creator>bpa</creator>
+			<email>baltontwo@eircom.net</email>
+			<url>http://bpaplugins.googlecode.com/svn/trunk/BBCiPlayerExtra-v106.ZIP</url>
+			<sha>c5fa17a006f789298590af0971fc3afc1e4619d3</sha>
+		</plugin>
+		
+
+	</plugins>
+	
+</extensions>
