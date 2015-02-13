@@ -15,7 +15,7 @@
 			<sha>89f9e6f0e9ff5894b54eb26828765327712aca2f</sha>
 		</plugin>
 
-		<plugin name="Xplay" version="1.01" target="win" minTarget="7.3" maxTarget="7.*">
+		<plugin name="PlayHLS" version="1.01" target="win" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">PlayHLS</title>
 			<desc  lang="EN">PlayHLS - a minimal plugin that sets ups LMS conf file to play HLS URL using a media player application - ffmpeg by default</desc>
 			<creator>bpa</creator>
