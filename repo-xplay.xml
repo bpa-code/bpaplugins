@@ -12,7 +12,7 @@
 			<desc  lang="EN">Xplay - a plugin that passes an URL straight to a media player application - VLC is setup by default</desc>
 			<creator>bpa</creator>
 			<url>http://bpaplugins.googlecode.com/svn/trunk/Xplay-v101.ZIP</url>
-			<sha></sha>
+			<sha>de7a4290efb67866abd87b16e9fbc919fc23fa1c</sha>
 		</plugin>
 
 		<plugin name="Xplay" version="1.01" minTarget="7.3" maxTarget="7.*">
@@ -20,7 +20,7 @@
 			<desc  lang="EN">Xplay - a plugin that passes an URL straight to a media player application - VLC is setup by default</desc>
 			<creator>bpa</creator>
 			<url>http://bpaplugins.googlecode.com/svn/trunk/Xplay-win-v101.ZIP</url>
-			<sha></sha>
+			<sha>5661d1c3d87a832705933c9bc416ca539a2d4323</sha>
 		</plugin>
 		
 
