@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<extensions>
+	
+	<details>
+		<title lang="EN">Xplay Plugin repo</title>
+	</details>
+	
+	<plugins>
+		
+		<plugin name="Xplay" version="1.01" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">Xplay</title>
+			<desc  lang="EN">Xplay - a plugin that passes an URL straight to a media player application - VLC is setup by default</desc>
+			<creator>bpa</creator>
+			<url>http://bpaplugins.googlecode.com/svn/trunk/Xplay-v101.ZIP</url>
+			<sha></sha>
+		</plugin>
+
+		<plugin name="Xplay" version="1.01" minTarget="7.3" maxTarget="7.*">
+			<title lang="EN">Xplay</title>
+			<desc  lang="EN">Xplay - a plugin that passes an URL straight to a media player application - VLC is setup by default</desc>
+			<creator>bpa</creator>
+			<url>http://bpaplugins.googlecode.com/svn/trunk/Xplay-win-v101.ZIP</url>
+			<sha></sha>
+		</plugin>
+		
+
+	</plugins>
+	
+</extensions>
