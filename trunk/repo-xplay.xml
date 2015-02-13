@@ -7,7 +7,7 @@
 	
 	<plugins>
 		
-		<plugin name="Xplay" version="1.01" minTarget="7.3" maxTarget="7.*">
+		<plugin name="Xplay" version="1.01" target="mac|unix" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">Xplay</title>
 			<desc  lang="EN">Xplay - a plugin that passes an URL straight to a media player application - VLC is setup by default</desc>
 			<creator>bpa</creator>
@@ -15,7 +15,7 @@
 			<sha>de7a4290efb67866abd87b16e9fbc919fc23fa1c</sha>
 		</plugin>
 
-		<plugin name="Xplay" version="1.01" minTarget="7.3" maxTarget="7.*">
+		<plugin name="Xplay" version="1.01" target="win" minTarget="7.3" maxTarget="7.*">
 			<title lang="EN">Xplay</title>
 			<desc  lang="EN">Xplay - a plugin that passes an URL straight to a media player application - VLC is setup by default</desc>
 			<creator>bpa</creator>
