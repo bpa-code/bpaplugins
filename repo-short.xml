@@ -20,7 +20,7 @@
         		<desc  lang="EN">Listen to BBC iPlayer Live and Listen Again Radio streams.  Supports the highest quality streams available from the BBC for your location.  Users outside the UK are now able to receive restricted bitrate versions of all of the content available to UK users.  This includes listen again recordings of the last 7 days of BBC National, Regional and Local Radio from the UK.  DASH support added by bpa</desc>
         		<creator>Triode</creator>
         		<email>baltontwo@eircom.com</email>
-        		<url>https://github.com/bpa-code/bpaplugins/raw/master/BBCiPlayer-V1_4_1.ZIP</url>
+        		<url>https://github.com/bpa-code/bpaplugins/raw/master/BBCiPlayer-V1_4_2.ZIP</url>
         		<sha>49f9138a749f203a4e3ea39923a42e2cf850febf</sha>
         	</plugin>
 		
