@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<extensions>
+	
+	<details>
+		<title lang="EN">bpa's ClassicFM Plugins Short</title>
+	</details>
+	
+	<plugins>
+		
+	        <plugin name="ClassicFM" version="2.0.1" minTarget="7.5" maxTarget="*">
+        		<title lang="EN">ClassicFM - v2.0.1 </title>
+        		<desc  lang="EN">Listen to ClassicFM Live and Listen Again Radio streams.  </desc>
+        		<creator>bpa</creator>
+        		<email>baltontwo@eircom.com</email>
+        		<url>http://downloads.sourceforge.net/project/bpaplugins/ClassicFM-v2001.ZIP</url>
+        		<sha>42a71d8dac8e08159bf6fee2b4ec92b617df62fa</sha>
+        	</plugin>
+		
+		
+
+	</plugins>
+	
+</extensions>
+
