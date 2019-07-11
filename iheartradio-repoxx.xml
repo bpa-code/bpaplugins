@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<extensions>
+	
+	<details>
+		<title lang="EN">bpa's iHeart Radio Plugin</title>
+	</details>
+	
+	<plugins>
+	        <plugin name="iHeartRadio" version="1.2.0" minTarget="7.7" maxTarget="*">
+        		<title lang="EN">iHeart Radio - v1.2</title>
+        		<desc  lang="EN">Listen to iHeart Radio Live US,CA,AU,NZ and MX stations</desc>
+        		<creator>bpa</creator>
+        		<email>baltontwo@eircom.com</email>
+        		<url>http://downloads.sourceforge.net/project/bpaplugins/iHeartRadio-v102.ZIP</url>
+        		<sha>be490535d99ff3ff077bfd00619064ac1e24ab88</sha>
+        	</plugin>
+	</plugins>
+</extensions>
+
