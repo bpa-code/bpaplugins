@@ -11,7 +11,7 @@
 			<desc  lang="EN">PlayHLS - test version 2.x- a plugin that lets LMS play HLS streams without ffmpeg or avconv</desc>
 			<creator>bpa</creator>
 			<url>http://downloads.sourceforge.net/project/bpaplugins/PlayHLS-v202.ZIP</url>
-			<sha>d97f55fbe3c1262d67799314a0f7533e28e9e61d</sha>
+			<sha>0b5d2664e2fc307d39a3a22c4a2e41f06e31ca8c</sha>
 		</plugin>
 	</plugins>
 	
