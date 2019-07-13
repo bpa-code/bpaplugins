@@ -2,17 +2,17 @@
 <extensions>
 	
 	<details>
-		<title lang="EN">bpa's iHeart Radio Plugins Short</title>
+		<title lang="EN">bpa's iHeart Radio Plugin</title>
 	</details>
 	
 	<plugins>
-	        <plugin name="iHeartRadio" version="1.0.0" minTarget="7.5" maxTarget="*">
-        		<title lang="EN">iHeart Radio - v1.0</title>
-        		<desc  lang="EN">Listen to iHeart Radio Live US station stream.</desc>
+	        <plugin name="iHeartRadio" version="1.2.0" minTarget="7.7" maxTarget="*">
+        		<title lang="EN">iHeart Radio - v1.2</title>
+        		<desc  lang="EN">Listen to iHeart Radio Live US,CA,AU,NZ and MX stations</desc>
         		<creator>bpa</creator>
         		<email>baltontwo@eircom.com</email>
-        		<url>http://downloads.sourceforge.net/project/bpaplugins/iHeartRadio-v100.ZIP</url>
-        		<sha>f510fe903b0edac947c4d16270d9935d0bd3134a</sha>
+        		<url>http://downloads.sourceforge.net/project/bpaplugins/iHeartRadio-v102.ZIP</url>
+        		<sha>5c9bd4bc3f0a92224bdff45d4e96661d3582e661</sha>
         	</plugin>
 	</plugins>
 </extensions>
