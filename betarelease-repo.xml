@@ -6,13 +6,13 @@
 	</details>
 	
 	<plugins>
-		<plugin name="BBCiPlayerExtra" version="3.2.0" minTarget="7.7" maxTarget="*">
+		<plugin name="BBCiPlayerExtra" version="3.3.0" minTarget="7.7" maxTarget="*">
 			<title lang="EN">BBCiPlayerExtra 3.x </title>
 			<desc  lang="EN">BBCiPlayer Extra which provides access to many iPlayer radio programs by title and latest in categories.</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.net</email>
-			<url>http://downloads.sourceforge.net/project/bpaplugins/BBCiPlayerExtra-v302_0.ZIP</url>
-			<sha>ebcd319cf06eaacb4f192b3b35003534a68d7cf7</sha>
+			<url>http://downloads.sourceforge.net/project/bpaplugins/BBCiPlayerExtra-v303_0.ZIP</url>
+			<sha>4968bf9f0e1f04ea3f17c91c477e626948a815f2</sha>
 		</plugin>
 		<plugin name="BBCiPlayer" version="1.6.8" minTarget="7.7" maxTarget="*">
 			<title lang="EN">BBCiPlayer - 1.6.x</title>
