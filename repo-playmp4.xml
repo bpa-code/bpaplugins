@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<extensions>
+	
+	<details>
+		<title lang="EN">PlayMP4 plugin to play MP4 files and streams repo</title>
+	</details>
+	
+	<plugins>
+		<plugin name="PlayMP4" version="1.0" minTarget="7.5" maxTarget="*">
+			<title lang="EN">PlayMP4 V1.x </title>
+			<desc  lang="EN">PlayMP4 - a plugin enables playing MP4 files and streams using ffmpeg</desc>
+			<creator>bpa</creator>
+			<url>http://downloads.sourceforge.net/project/bpaplugins/PlayMP4-v100.ZIP</url>
+			<sha>a911db4d0af555c0e17797dab792b93c7039895f</sha>
+		</plugin>
+	</plugins>
+	
+</extensions>

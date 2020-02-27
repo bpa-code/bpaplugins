@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<extensions>
+	
+	<details>
+		<title lang="EN">PlayHLS V2 Plugin repo</title>
+	</details>
+	
+	<plugins>
+		<plugin name="PlayHLS" version="2.2" minTarget="7.7" maxTarget="*">
+			<title lang="EN">PlayHLS V2.x </title>
+			<desc  lang="EN">PlayHLS - version 2.x- a plugin that lets LMS play HLS streams without ffmpeg or avconv</desc>
+			<creator>bpa</creator>
+			<url>http://downloads.sourceforge.net/project/bpaplugins/PlayHLS-v202.ZIP</url>
+			<sha>db8264416b489b9e0c7e6ae5c8b2903a76ed19d8</sha>
+		</plugin>
+	</plugins>
+	
+</extensions>
