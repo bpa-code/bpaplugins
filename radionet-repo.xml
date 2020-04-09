@@ -6,12 +6,12 @@
 	</details>
 	
 	<plugins>
-		<plugin name="RadioNet" version="1.0" minTarget="7.9" maxTarget="*">
+		<plugin name="RadioNet" version="1.1" minTarget="7.9" maxTarget="*">
 			<title lang="EN">RadioNet V1.*</title>
-			<desc  lang="EN">RadioNet - provides access to Radio.net directory</desc>
+			<desc  lang="EN">RadioNet - provides access to Radio.net directory of internet stations &amp; podcasts</desc>
 			<creator>bpa</creator>
-			<url>http://downloads.sourceforge.net/project/bpaplugins/RadioNet-V1_0.ZIP</url>
-			<sha>6d358b318ec07f30bde63b4f9fb9f5386c414ca1</sha>
+			<url>http://downloads.sourceforge.net/project/bpaplugins/RadioNet-V1_1.ZIP</url>
+			<sha>b5092374448b39519b5d75372a96aeaa78320716</sha>
 		</plugin>
 	</plugins>
 	
