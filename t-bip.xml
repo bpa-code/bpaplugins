@@ -14,13 +14,13 @@
 			<url>https://bpa-code.github.io/bpaplugins/BBCiPlayerExtra-v304_0.ZIP</url>
 			<sha>dbdfd73b8b1f29fb1fc13ee6bc9d01107ab1e6b7</sha>
 		</plugin>
-		<plugin name="BBCiPlayer" version="1.6.9" minTarget="7.7" maxTarget="*">
+		<plugin name="BBCiPlayer" version="1.6.10" minTarget="7.7" maxTarget="*">
 			<title lang="EN">BBCiPlayer - 1.6.x</title>
 			<desc  lang="EN">Listen to BBC iPlayer Live and Listen Again Radio streams.  Supports the highest quality streams available from the BBC for your location.  Users outside the UK are now able to receive restricted bitrate versions of all of the content available to UK users.  This includes listen again recordings of the last 7 days of BBC National, Regional and Local Radio from the UK.  DASH support added by bpa</desc>
 			<creator>bpa</creator>
 			<email>baltontwo@eircom.com</email>
-			<url>https://bpa-code.github.io/bpaplugins/BBCiPlayer-V1_6_9.ZIP</url>
-			<sha>4561ce64c030fb9f2697e912a45286ab57bdd340</sha>
+			<url>https://bpa-code.github.io/bpaplugins/BBCiPlayer-V1_6_10.ZIP</url>
+			<sha>7991e7ae35194b2030ddca513869dde04aecf1aa</sha>
 		</plugin>
 	</plugins>
 </extensions>
