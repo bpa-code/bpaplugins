@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<extensions>
+	
+	<details>
+		<title lang="EN">CDplayer test update repo</title>
+	</details>
+
+
+
+		<plugin name="CDplayer" version="1.11" target="mac" minTarget="7.6" maxTarget="*">
+			<title lang="EN">CDplayer</title>
+			<desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Requires CDDA2WAV to be installed.</desc>
+			<creator>bpa</creator>
+			<changes>-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb. Not tested on OSX  </changes>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
+			<url>https://bpa-code.github.io/bpaplugins/CDplayer-osx-v111.ZIP</url>
+			<sha>3b2cf4b81f7d2e84b0ba9c9025e97234ddda5bfd</sha>
+		</plugin>
+		<plugin name="CDplayer" version="1.110" target="win" minTarget="7.6" maxTarget="*">
+			<title lang="EN">CDplayer</title>
+			<desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Includes CDDA2WAV and associated DLLs.</desc>
+			<creator>bpa</creator>
+			<changes>-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  </changes>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
+			<url>https://bpa-code.github.io/bpaplugins/CDplayer-windows-v111.ZIP</url>
+			<sha>748d4520a37871d4babaa5de4b2540886b82c031</sha>
+		</plugin>
+		<plugin name="CDplayer" version="1.10" target="unix" minTarget="7.6" maxTarget="*">
+			<title lang="EN">CDplayer</title>
+			<desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Requires CDDA2WAV to be installed. Use icedax for Ubuntu.</desc>
+			<creator>bpa</creator>
+			<changes>-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  </changes>
+			<email>baltontwo@eircom.net</email>
+			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
+			<url>https://bpa-code.github.io/bpaplugins/CDplayer-linux-v111.ZIP</url>
+			<sha>d71f97cd9b741f50b939e94670f6ec32abee9b3c</sha>
+		</plugin>
+		
+</extensions>
+		
