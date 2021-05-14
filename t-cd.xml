@@ -4,9 +4,7 @@
 	<details>
 		<title lang="EN">CDplayer test update repo</title>
 	</details>
-
-
-
+	<plugins>
 		<plugin name="CDplayer" version="1.11" target="mac" minTarget="7.6" maxTarget="*">
 			<title lang="EN">CDplayer</title>
 			<desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Requires CDDA2WAV to be installed.</desc>
@@ -37,6 +35,6 @@
 			<url>https://bpa-code.github.io/bpaplugins/CDplayer-linux-v111.ZIP</url>
 			<sha>d71f97cd9b741f50b939e94670f6ec32abee9b3c</sha>
 		</plugin>
-		
+	</plugins>
 </extensions>
 		
