@@ -13,7 +13,7 @@
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
 			<url>https://bpa-code.github.io/bpaplugins/CDplayer-osx-v111.ZIP</url>
-			<sha>6608485a89ef265daf2ed62fbfd88565e850c4c9</sha>
+			<sha>6fc70e8d6f7f0ae51bcc0dae610cf9f2e3dfe0d8</sha>
 		</plugin>
 		<plugin name="CDplayer" version="1.11" target="win" minTarget="7.6" maxTarget="*">
 			<title lang="EN">CDplayer</title>
@@ -23,7 +23,7 @@
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
 			<url>https://bpa-code.github.io/bpaplugins/CDplayer-windows-v111.ZIP</url>
-			<sha>a7bf1e7a59a64aac3e77b0d6f97cd9f9d55e87cd</sha>
+			<sha>d6685b38ecc30ba5dac05b5bfcc06079a7fcba1e</sha>
 		</plugin>
 		<plugin name="CDplayer" version="1.11" target="unix" minTarget="7.6" maxTarget="*">
 			<title lang="EN">CDplayer</title>
@@ -33,7 +33,7 @@
 			<email>baltontwo@eircom.net</email>
 			<link>http://forums.slimdevices.com/showthread.php?t=47288</link>
 			<url>https://bpa-code.github.io/bpaplugins/CDplayer-linux-v111.ZIP</url>
-			<sha>11e66f7f922205f5d1d5e07f99a9964ecc1d2282</sha>
+			<sha>b2bbfec5e1ec9012a3ecc198661b030efcbc84e4</sha>
 		</plugin>
 	</plugins>
 </extensions>
