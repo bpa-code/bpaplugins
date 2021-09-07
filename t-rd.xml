@@ -2,16 +2,16 @@
 <extensions>
 	
 	<details>
-		<title lang="EN">RadioNet V1.* Plugin repo</title>
+		<title lang="EN">RadioNet V2.* Test Plugin repo</title>
 	</details>
 	
 	<plugins>
-		<plugin name="RadioNet" version="1.6" minTarget="7.9" maxTarget="*">
-			<title lang="EN">RadioNet V1.*</title>
+		<plugin name="RadioNet" version="2.0" minTarget="7.9" maxTarget="*">
+			<title lang="EN">RadioNet V2.*</title>
 			<desc  lang="EN">RadioNet - provides access to Radio.net directory</desc>
 			<creator>bpa</creator>
-			<url>https://bpa-code.github.io/bpaplugins/RadioNet-V1_6.ZIP</url>
-			<sha>cf254b4399c5870ae39ca4d044f57b9a83977fcc</sha>
+			<url>https://bpa-code.github.io/bpaplugins/RadioNet-V2_0.ZIP</url>
+			<sha>b8476a67ef5ff6aa317f5c3f7e23781fc1b963cf</sha>
 		</plugin>
 	</plugins>
 	
