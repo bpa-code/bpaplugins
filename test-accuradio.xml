@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<extensions>
+	
+	<details>
+		<title lang="EN">Accuradio V0.* Plugin Test repo</title>
+	</details>
+	
+	<plugins>
+		<plugin name="Accuradio" version="0.2" minTarget="8.2" maxTarget="*">
+			<title lang="EN">Accuradio V0.*</title>
+			<desc  lang="EN">Accuradio - provides access to Accuradio streams</desc>
+			<creator>bpa</creator>
+			<url>https://bpa-code.github.io/bpaplugins/Accuradio-V0_2.ZIP</url>
+			<sha>674f76ce602f2002b3a49e00227bcb2d91ae5b5b</sha>
+		</plugin>
+	</plugins>
+	
+</extensions>
