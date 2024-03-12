@@ -6,12 +6,12 @@
 	</details>
 	
 	<plugins>
-		<plugin name="PlayHLS" version="2.9" minTarget="7.7" maxTarget="*">
+		<plugin name="PlayHLS" version="2.11" minTarget="7.7" maxTarget="*">
 			<title lang="EN">PlayHLS  V2.x</title>
 			<desc  lang="EN">PlayHLS - version 2.x- enables LMS to play HLS streams without additional executable</desc>
 			<creator>bpa</creator>
-			<url>https://bpa-code.github.io/bpaplugins/PlayHLS-v209.ZIP</url>
-			<sha>24dba9820f63f1cd7524802e41da6ca9177f2cec</sha>
+			<url>https://bpa-code.github.io/bpaplugins/PlayHLS-v211.ZIP</url>
+			<sha>2f2ffbaf0c195be4f59c9bd425561041e9b8c7b6</sha>
 		</plugin>
 	</plugins>
 	
