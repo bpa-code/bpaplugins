@@ -7,7 +7,7 @@
 	
 	<plugins>
 		<plugin name="RadioNet" version="3.0" minTarget="7.9" maxTarget="*">
-			<title lang="EN">RadioNet V2.*</title>
+			<title lang="EN">RadioNet V3.*</title>
 			<desc  lang="EN">RadioNet - provides access to Radio.net directory</desc>
 			<creator>bpa</creator>
 			<url>https://bpa-code.github.io/bpaplugins/RadioNet-V3_0.ZIP</url>
