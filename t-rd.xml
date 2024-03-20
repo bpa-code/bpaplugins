@@ -6,12 +6,12 @@
 	</details>
 	
 	<plugins>
-		<plugin name="RadioNet" version="3.0" minTarget="7.9" maxTarget="*">
+		<plugin name="RadioNet" version="3.1" minTarget="7.9" maxTarget="*">
 			<title lang="EN">RadioNet V3.*</title>
 			<desc  lang="EN">RadioNet - provides access to Radio.net directory</desc>
 			<creator>bpa</creator>
-			<url>https://bpa-code.github.io/bpaplugins/RadioNet-V3_0.ZIP</url>
-			<sha>00af548bd1f1f9305cff407ab3c1787b2258a3b5</sha>
+			<url>https://bpa-code.github.io/bpaplugins/RadioNet-V3_1.ZIP</url>
+			<sha>87a5f60e67346b454c30c6b91379d22ece6d4b8b</sha>
 		</plugin>
 	</plugins>
 	
