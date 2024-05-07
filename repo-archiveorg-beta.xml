@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<extensions>
+	
+	<details>
+		<title lang="EN">ArchiveOrg testrepo</title>
+	</details>
+	
+	<plugins>
+		<plugin name="ArchiveOrg" version="0.5" minTarget="8.3" maxTarget="*">
+			<title lang="EN">ArchiveOrg V0.5 test</title>
+			<desc  lang="EN">ArchiveOrg - test v0.x- a plugin that enables access to files on Archive.org</desc>
+			<creator>bpa</creator>
+			<url>https://bpa-code.github.io/bpaplugins/ArchiveOrg-V0_5.ZIP</url>
+			<sha>2d03f66a98f23c93c3680a29ee34582037dbf62f</sha>
+		</plugin>
+	</plugins>
+	
+</extensions>
