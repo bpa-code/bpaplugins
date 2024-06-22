@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<extensions>
+	
+	<details>
+		<title lang="EN">Live365 V1.* Test Plugin repo</title>
+	</details>
+	
+	<plugins>
+    <plugin name="Live365" version="1.02" minTarget="8.0" maxTarget="*">
+                        <title lang="EN">Live365 V1.*</title>
+                        <desc  lang="EN">Live365 - provides access to Live365 directory of internet stations</desc>
+                        <creator>bpa</creator>
+                        <url>https://bpa-code.github.io/bpaplugins/Live365-V1_02.ZIP</url>
+                        <sha>f196a45807dc537ec061426a803008ddfde4e200</sha>
+                </plugin>        
+	</plugins>
+	
+</extensions>
