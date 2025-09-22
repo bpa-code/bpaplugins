@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<extensions>
+	
+	<details>
+		<title lang="EN">LocalPlayer V1.* Test Plugin repo</title>
+	</details>
+	
+	<plugins>
+		<plugin name="LocalPlayer" version="1.7.5" minTarget="8.5" maxTarget="*">
+			<title lang="EN">LocalPlayer V1.*</title>
+			<desc  lang="EN">LocalPlayer Test</desc>
+			<creator>bpa</creator>
+			<url>https://bpa-code.github.io/bpaplugins/LocalPlayer-V1_7_5.ZIP</url>
+			<sha>ef33ad6dd586c77de29d4fb17b5ec7f51072e0fe</sha>
+		</plugin>
+	</plugins>
+	
+</extensions>
