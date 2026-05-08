@@ -6,12 +6,12 @@
 	</details>
 	
 	<plugins>
-    <plugin name="Live365" version="1.03" minTarget="8.0" maxTarget="*">
+    <plugin name="Live365" version="1.04" minTarget="8.0" maxTarget="*">
                         <title lang="EN">Live365 V1.*</title>
                         <desc  lang="EN">Live365 - provides access to Live365 directory of internet stations</desc>
                         <creator>bpa</creator>
-                        <url>https://bpa-code.github.io/bpaplugins/Live365-V1_03.ZIP</url>
-                        <sha>5dc9789e5237833b32b59bd920f2a7a1070145c9</sha>
+                        <url>https://bpa-code.github.io/bpaplugins/Live365-V1_04.ZIP</url>
+                        <sha>53a0869b78a25b5241d7fde9eed64c81c548b301</sha>
                 </plugin>        
 	</plugins>
 	
